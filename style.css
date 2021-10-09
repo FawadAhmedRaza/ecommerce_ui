@@ -1,0 +1,28 @@
+.category-item {
+    height: 100px;
+    width: 100px;
+    border:2px solid rgb(199, 194, 194);
+}
+.category-item img {
+    height: 65px;
+    width: 65px;
+
+}
+
+.category-item-main:nth-child(1) .category-item{
+    background-color: #FBB6B6;
+}
+.category-item-main:nth-child(2) .category-item{
+    background-color: #B6FBB6;
+}
+.category-item-main:nth-child(3) .category-item{
+    background-color: #B6B6FB;
+}
+.category-item-main:nth-child(4) .category-item{
+    background-color: #FBFBB6;
+}
+
+
+
+
+

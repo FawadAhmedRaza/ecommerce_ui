@@ -51,3 +51,42 @@
     border-radius: 50% !important;
     border: 2px solid whitesmoke !important;
 }
+.bottom-nav li{
+    list-style-type: none;
+    font-size: 14px !important;
+    padding: 5px 0 !important;
+}
+.bottom-nav{
+    padding: 0 !important;
+}
+.font-weight-bolder{
+    font-weight:900 !important;
+}
+
+.social-icons{
+    height: 34px;
+    margin:0 5px;
+}
+.navbar-top{
+    background-color: #eaeeef;}
+.footer-main{
+    background-color: #e9eeef;
+    width: 100%;
+    padding: 55px 20px;
+}
+
+.nav-icons img{
+    width:25px !important;
+}
+.search-main {
+    border:1px solid grey !important;
+}
+.search-main input[type="search"]{
+outline-style: none;
+border-top:none !important;
+border-bottom:none !important;
+border-left:none !important;
+border-right:1px solid !important;
+
+padding:3px 5px;
+}
